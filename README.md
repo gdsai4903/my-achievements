@@ -22,7 +22,8 @@ Below is a list of some of the key certifications I have obtained:
 
 Here are some of the notable achievements I've earned during my career and educational journey:
 - **Hackathons and Competitions**  
-  _2nd position in the ELA-Hackathon hosted by International Institute for Sustainable Development._
+  - 2nd position in the ELA-Hackathon hosted by International Institute for Sustainable Development.
+  - Top Applied Research Entry - Sustainable Development Goals.
 
 ## 🔗 Repository Links
 
